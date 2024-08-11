@@ -39,9 +39,3 @@
 <img src="https://raw.githubusercontent.com/BrunoOliveira0719/BrunoOliveira0719/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div align="center">
-  <img src="https://open.spotify.com/intl-pt/album/1dQDdZKvdJ5gNhUF56S8Qu?si=_ml3v9puTuaRv-78GBAlLw?theme=dark&scan=false" alt="Widget with the current Spotify song"  />
-</div>
-
-###
