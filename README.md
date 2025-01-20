@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoOliveira0719&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoOliveira0719&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2 &count_private=true&include_all_commits=true&token=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" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoOliveira0719&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false&order=2&count_private=true&include_all_commits=true&token=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" height="150" alt="languages graph"  />
 </div>
 
 ###
