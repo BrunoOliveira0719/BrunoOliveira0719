@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BrunoOliveira0719&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoOliveira0719&locale=en&hide_title=false&layout=compact&card_width=350&custom_title=<>&langs_count=10&theme=algolia&hide_border=false&order=2&count_private=true&include_all_commits=true&show_icons=true" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoOliveira0719&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=10&theme=algolia&hide_border=false&order=2&count_private=true&include_all_commits=true&show_icons=true" height="200" alt="languages graph"  />
 </div>
 
 ###
