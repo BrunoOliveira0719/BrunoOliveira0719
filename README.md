@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Bruno, bem-vindo ao meu Profile<br><br>Hi! My name is Bruno, welcome to my Profile</h2>
+<h2 align="left">Olá! Meu nome é Bruno, bem-vindo ao meu Perfil<br><br>Hi! My name is Bruno, welcome to my Profile</h2>
 
 ###
 
